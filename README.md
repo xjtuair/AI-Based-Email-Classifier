@@ -1,3 +1,3 @@
 AI-BASED-EMAIL-CLASSIFIER:
 --------------------
-This project
+This project includes 
