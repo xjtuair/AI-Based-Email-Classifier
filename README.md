@@ -1,3 +1,3 @@
 AI-BASED-EMAIL-CLASSIFIER:
 --------------------
-This project includes text classi
+This project includes text classificat
