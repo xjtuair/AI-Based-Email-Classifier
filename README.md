@@ -1,3 +1,3 @@
 AI-BASED-EMAIL-CLASSIFIER:
 --------------------
-This project includes text classification which is a mu
+This project includes text classification which is a multi-clas
