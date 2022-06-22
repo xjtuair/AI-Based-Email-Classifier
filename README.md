@@ -1,3 +1,3 @@
 AI-BASED-EMAIL-CLASSIFIER:
 --------------------
-This project includes text classification which is a multi-class classification where different classifiers are trained a
+This project includes text classification which is a multi-class classification where different classifiers are trained and test
