@@ -4,4 +4,4 @@ This project includes text classification which is a multi-class classification 
 
 The classifiers used include Support Vector Machine (SVM), K-Nearest Neighbour, Multinomial Naïve Bayes, Decision Tree, Logistic Regression, SVM with Stochastic Gradient Descent classifier (SGD-SVM) and Logistic Regression with Stochastic Gradient Descent classifier (SGD-LR). All these classifiers are trained with features extracted using the TF-IDF vectorizer.
 Further, ensemble classifiers including Random Forest (RF), AdaBoost, Bagging (BGC), Extra Trees and, Vote on various classifier combinations are trained in a similar manner. The effect of stemming on the model performance is also analyzed.
-Finally, all the models' performances are evaluated based on standard evaluation metrics: Accuracy, Precision, Recall, F-Score, and Confus
+Finally, all the models' performances are evaluated based on standard evaluation metrics: Accuracy, Precision, Recall, F-Score, and Confusion Matri
