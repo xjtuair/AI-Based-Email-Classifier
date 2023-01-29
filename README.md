@@ -6,4 +6,4 @@ The classifiers used include Support Vector Machine (SVM), K-Nearest Neighbour, 
 Further, ensemble classifiers including Random Forest (RF), AdaBoost, Bagging (BGC), Extra Trees and, Vote on various classifier combinations are trained in a similar manner. The effect of stemming on the model performance is also analyzed.
 Finally, all the models' performances are evaluated based on standard evaluation metrics: Accuracy, Precision, Recall, F-Score, and Confusion Matrix.
 
-PRER
+PREREQUISITE
