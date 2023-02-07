@@ -7,4 +7,4 @@ Further, ensemble classifiers including Random Forest (RF), AdaBoost, Bagging (B
 Finally, all the models' performances are evaluated based on standard evaluation metrics: Accuracy, Precision, Recall, F-Score, and Confusion Matrix.
 
 PREREQUISITES:
---
+-------
