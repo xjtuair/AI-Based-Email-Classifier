@@ -10,4 +10,4 @@ PREREQUISITES:
 --------------
 <ul>
    <Li> Python 3.x. </li>
-  <Li> Librarie
+  <Li> Libraries: </
