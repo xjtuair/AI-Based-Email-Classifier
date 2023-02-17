@@ -13,4 +13,4 @@ PREREQUISITES:
   <Li> Libraries: </li>
   <ul>
     <Li> Pandas </li>
-    <Li> Sk
+    <Li> Sklearn </li>
