@@ -17,4 +17,5 @@ PREREQUISITES:
     <Li> Nltk </li>
     <Li> Numpy </li>
     <Li> Matplotlib </li>
-    <Li> String </
+    <Li> String </li>
+    <Li
