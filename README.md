@@ -18,4 +18,5 @@ PREREQUISITES:
     <Li> Numpy </li>
     <Li> Matplotlib </li>
     <Li> String </li>
-    <Li> re </
+    <Li> re </li>
+ 
