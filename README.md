@@ -19,4 +19,5 @@ PREREQUISITES:
     <Li> Matplotlib </li>
     <Li> String </li>
     <Li> re </li>
-    <Li> Random </li
+    <Li> Random </li>
+  </Ul>
