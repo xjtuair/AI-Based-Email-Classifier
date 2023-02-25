@@ -21,4 +21,6 @@ PREREQUISITES:
     <Li> re </li>
     <Li> Random </li>
   </Ul>
-</U
+</Ul>
+
+CODE B
