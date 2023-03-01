@@ -25,4 +25,4 @@ PREREQUISITES:
 
 CODE BRIEF:
 ----------
-The entire coding is done i
+The entire coding is done in Py
