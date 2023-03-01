@@ -25,4 +25,4 @@ PREREQUISITES:
 
 CODE BRIEF:
 ----------
-The 
+The entire coding
