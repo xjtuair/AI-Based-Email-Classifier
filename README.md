@@ -25,4 +25,4 @@ PREREQUISITES:
 
 CODE BRIEF:
 ----------
-The entire coding is done in Python3.5. The pro
+The entire coding is done in Python3.5. The projec
