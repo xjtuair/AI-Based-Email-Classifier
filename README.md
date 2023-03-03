@@ -25,4 +25,4 @@ PREREQUISITES:
 
 CODE BRIEF:
 ----------
-The entire coding is done in Python3.5. The project invol
+The entire coding is done in Python3.5. The project involves two 
