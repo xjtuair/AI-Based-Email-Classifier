@@ -29,3 +29,5 @@ The entire coding is done in Python3.5. The project involves two key Python file
 
 I. Extract_email.py:
 This file handles the process of Data Extraction.
+
+II. Email_
