@@ -28,4 +28,4 @@ CODE BRIEF:
 The entire coding is done in Python3.5. The project involves two key Python files ‘Extract_email.py’ and ‘Email_Classification.py’ which handle the process of Data Extraction and, Text processing and classification respectively.
 
 I. Extract_email.py:
-This file handles the process of Data Ex
+This file handles the process of Data Extraction.
