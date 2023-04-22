@@ -31,4 +31,4 @@ I. Extract_email.py:
 This file handles the process of Data Extraction.
 
 II. Email_Classification.py:
-This file handles the entire process of emai
+This file handles the entire process of email proce
