@@ -34,4 +34,4 @@ II. Email_Classification.py:
 This file handles the entire process of email processing and classification.
 
 1. Data Preprocessing:
-Functions handle the removal of punctuation and stopwords, and perform stemming on the content. Two vectors, TF-IDF and Count vectors, are used to extract t
+Functions handle the removal of punctuation and stopwords, and perform stemming on the content. Two vectors, TF-IDF and Count vectors, are used to extract the re
