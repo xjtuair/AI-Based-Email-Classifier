@@ -37,4 +37,4 @@ This file handles the entire process of email processing and classification.
 Functions handle the removal of punctuation and stopwords, and perform stemming on the content. Two vectors, TF-IDF and Count vectors, are used to extract the relevant features.
 
 2. Text Classification:
-Classifers are trained on the features extracted and their performance is evaluated. Parameter tuni
+Classifers are trained on the features extracted and their performance is evaluated. Parameter tuning is
