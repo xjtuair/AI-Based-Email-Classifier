@@ -40,4 +40,4 @@ Functions handle the removal of punctuation and stopwords, and perform stemming 
 Classifers are trained on the features extracted and their performance is evaluated. Parameter tuning is conducted before model training commences.
 
 3. Evaluation Metrics:
-The classifiers are examined on the basis of: Accuracy, Confusion Matrix, Precision, 
+The classifiers are examined on the basis of: Accuracy, Confusion Matrix, Precision, Recall, and
