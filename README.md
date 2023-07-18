@@ -43,4 +43,4 @@ Classifers are trained on the features extracted and their performance is evalua
 The classifiers are examined on the basis of: Accuracy, Confusion Matrix, Precision, Recall, and F-Score.
 
 NOTE:
-For the execution of 
+For the execution of the code
